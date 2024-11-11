@@ -1,0 +1,2 @@
+ciao locale
+ciao remoto
